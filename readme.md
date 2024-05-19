@@ -53,7 +53,11 @@ source .venv/bin/activate
 
 3. Install requirements
 
-`pip install -r requirements.txt`
+Due to dependency conflicts, you will get an error, but successfully be able to install everything required.
+```sh
+pip install -r requirements.txt
+pip install yt_dlp # will complain about incompatible versions, ignore
+```
 
 4. Launch Web UI
 
