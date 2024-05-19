@@ -1,0 +1,22 @@
+{
+    "models": [
+    "openai/whisper-large-v3",
+    "openai/whisper-large-v2",
+    "openai/whisper-large",
+    "openai/whisper-medium",
+    "openai/whisper-small",
+    "openai/whisper-tiny"
+    ],
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "nl",
+        "pl",
+        "ru",
+        "tr"
+    ]
+}
